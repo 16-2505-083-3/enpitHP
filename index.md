@@ -6,5 +6,7 @@
 <br>
 # [超絶情報満載のメルマガURL](https://16-2505-073-5.github.io/enPiT2018)
 <br>
+![先輩方も活躍しています！]<http://gahag.net/008577-moon-earth-space/>
 <br>
-###### fake newsです
+<br>
+#### fake newsです
