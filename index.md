@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HogwartsSchool of Witchcraft and Wizardry!
 
 You can use the [editor on GitHub](https://github.com/16-2505-083-3/enpitHP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
