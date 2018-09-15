@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: ホグワーツへの招待状
+description: ようこそ魔法学校へ
+github:
+  is_project_page: false
